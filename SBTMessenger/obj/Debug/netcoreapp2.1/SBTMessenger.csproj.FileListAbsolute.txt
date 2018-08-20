@@ -1,0 +1,14 @@
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/bin/Debug/netcoreapp2.1/SBTMessenger.deps.json
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/bin/Debug/netcoreapp2.1/SBTMessenger.runtimeconfig.json
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/bin/Debug/netcoreapp2.1/SBTMessenger.runtimeconfig.dev.json
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/bin/Debug/netcoreapp2.1/SBTMessenger.dll
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/bin/Debug/netcoreapp2.1/SBTMessenger.pdb
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.csproj.CoreCompileInputs.cache
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.RazorAssemblyInfo.cache
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.RazorAssemblyInfo.cs
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.AssemblyInfoInputs.cache
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.AssemblyInfo.cs
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.RazorTargetAssemblyInfo.cache
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.dll
+/Users/seanconkie/Projects/SBTMessenger/SBTMessenger/obj/Debug/netcoreapp2.1/SBTMessenger.pdb
